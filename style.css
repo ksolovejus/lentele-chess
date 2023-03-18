@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+table{
+    margin: auto;
+}
+
+th{
+    border: 5px solid red;
+    width: 100px;
+    height: 100px;
+    background: green;
+}
+
+td{
+    border: 5px solid green;
+    width: 100px;
+    height: 100px;
+    background: red;
+}
+
+div{
+    margin: auto;
+    height: 45px;
+    width: 45px;
+    background: green;
+}
+
+th div{
+    background: red;
+}
